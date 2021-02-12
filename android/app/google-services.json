@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995582429593",
+    "project_id": "brew-crew-18342",
+    "storage_bucket": "brew-crew-18342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995582429593:android:61d513bb6fe7352dbbeb08",
+        "android_client_info": {
+          "package_name": "miniproject.co.flutter_app_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995582429593-o66a15guclegmoup2rqa74vods33htfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGg4Vjg5peEf0KTgMYYlz3cwu4A6yNwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995582429593-o66a15guclegmoup2rqa74vods33htfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
